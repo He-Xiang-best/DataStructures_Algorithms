@@ -1,0 +1,2 @@
+C:\Development-Project\C++Project\DataStruct-Algorithms\ex01\1_2_lookup\Debug\1_2_lookup.exe
+C:\Development-Project\C++Project\DataStruct-Algorithms\ex01\1_2_lookup\Debug\1_2_lookup.pdb
