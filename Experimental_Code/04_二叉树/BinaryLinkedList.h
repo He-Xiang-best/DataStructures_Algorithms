@@ -38,7 +38,7 @@ public:
     ~BinaryLinkList() { clear(); }
     bool empty() const { return root == NULL; }	// 判空
     // 公有的清空、结点数、高度、叶结点数，调用私有清空、结点数、高度、叶结点数
-    void clear() { if (root) clear(root); root = NULL; }	// 公有，清空
+    void clear() { if (root) clear(root); root = NULL; }// 公有，清空
     int size() const { return size(root); }	// 公有，求结点总数
     int height() const { return height(root); }	// 公有，二叉树的高度
     int leafNum()const { return leafNum(root); }// 公有，二叉树的叶子数
@@ -95,7 +95,7 @@ void BinaryLinkList<elemType>::levelOrderTraverse() const {
     Node* p = root;
     if (p) que.push(p);		// 根结点入队列
     while (!que.empty()) {	// 队列非空
-        p = que.front(); 	 // 取队首元素
+        p = que.front(); 	// 取队首元素
         que.pop();			// 出队
         cout << p->data << ' ';	// 访问当前结点	
         if (p->left != NULL)que.push(p->left);	// 左子树进队列
@@ -109,8 +109,8 @@ void BinaryLinkList<elemType>::preOrderCreate(elemType flag, Node*& t) {
     // 需注意，因为要修改t指针，所以t指针使用引用传递
     elemType value;
     cin >> value;
-    if (value != flag) {		// 递归出口value==flag
-        t = new Node(value);	// 生成根结点
+    if (value != flag) {	// 递归出口value==flag
+        t = new Node(value);// 生成根结点
         preOrderCreate(flag, t->left);	// 递归创建左子树
         preOrderCreate(flag, t->right);	// 递归创建右子树
     }
@@ -126,8 +126,8 @@ int BinaryLinkList<elemType>::size(Node* t) const {
 //二叉树的高度
 template <class elemType>
 int BinaryLinkList<elemType>::height(Node* t) const {
-    if (t == NULL) return 0;	        // 情况(1)：空子树	
-    else {				                // 情况(2)：子树非空
+    if (t == NULL) return 0;	         // 情况(1)：空子树	
+    else {				                 // 情况(2)：子树非空
         int lh = height(t->left), rh = height(t->right);
         return 1 + ((lh > rh) ? lh : rh);// 树的高度为左右子树高度大者+1
     }
@@ -138,8 +138,8 @@ template <class elemType>
 int BinaryLinkList<elemType>::leafNum(Node* t)const {
     if (t == NULL)return 0;	// 情况(1)：空子树	
     else if ((t->left == NULL) && (t->right == NULL))
-        return 1;	// 情况(2)：叶结点
-    else 			// 情况(3)：求左右子树叶子数之和
+        return 1;	        // 情况(2)：叶结点
+    else 			        // 情况(3)：求左右子树叶子数之和
         return leafNum(t->left) + leafNum(t->right);
 }
 
