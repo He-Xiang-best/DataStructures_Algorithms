@@ -1,0 +1,2 @@
+C:\Git\Project_C++\哈夫曼树_哈夫曼编码\Debug\哈夫曼树_哈夫曼编码.exe
+C:\Git\Project_C++\哈夫曼树_哈夫曼编码\Debug\哈夫曼树_哈夫曼编码.pdb

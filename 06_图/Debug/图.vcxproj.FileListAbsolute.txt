@@ -1,0 +1,2 @@
+C:\Git\Project_C++\图\Debug\图.exe
+C:\Git\Project_C++\图\Debug\图.pdb
