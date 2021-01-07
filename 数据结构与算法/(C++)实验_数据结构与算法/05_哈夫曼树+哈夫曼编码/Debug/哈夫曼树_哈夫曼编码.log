@@ -1,14 +1,1 @@
-﻿  Main.cpp
-C:\Git\Project_C++\哈夫曼树_哈夫曼编码\huffmanTree.h(47,38): warning C4244: “=”: 从“const double”转换到“int”，可能丢失数据
-C:\Git\Project_C++\哈夫曼树_哈夫曼编码\huffmanTree.h(43): message : 在编译 类 模板 成员函数“void huffmanTree<char>::createHuffmanTree(const T *,const double *)”时
-          with
-          [
-              T=char
-          ]
-C:\Git\Project_C++\哈夫曼树_哈夫曼编码\Main.cpp(36): message : 查看对正在编译的函数 模板 实例化“void huffmanTree<char>::createHuffmanTree(const T *,const double *)”的引用
-          with
-          [
-              T=char
-          ]
-C:\Git\Project_C++\哈夫曼树_哈夫曼编码\Main.cpp(35): message : 查看对正在编译的 类 模板 实例化“huffmanTree<char>”的引用
-  哈夫曼树_哈夫曼编码.vcxproj -> C:\Git\Project_C++\哈夫曼树_哈夫曼编码\Debug\哈夫曼树_哈夫曼编码.exe
+﻿  哈夫曼树_哈夫曼编码.vcxproj -> C:\Git\项目仓库\Learing_Course\数据结构与算法\(C++)实验_数据结构与算法\05_哈夫曼树+哈夫曼编码\Debug\哈夫曼树_哈夫曼编码.exe
