@@ -4,7 +4,7 @@
 
 ![1 计算机基础](../images/1 计算机基础.png)
 
-![](../images/2 Python 语言基础.png)
+![2 Python 语言基础](../images/2 Python 语言基础.png)
 
 ![3 标准数据类型 (一) 数值   字典   集合](../images/3 标准数据类型 (一) 数值   字典   集合.png)
 
