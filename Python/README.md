@@ -1,10 +1,12 @@
 # Python学习思维导图
 
-![0【目录】Python 系列 (一)  核心知识](../images/0【目录】Python 系列 (一)  核心知识.png)
+![0【目录】Python 系列 (一)  核心知识](https://raw.githubusercontent.com/He-Xiang-best/Knowledge_Note/main/img/20210126150038.png)
+
+![0【目录】Python 系列 (一)  核心知识](https://raw.githubusercontent.com/He-Xiang-best/Knowledge_Note/main/img/20210126145854.png)
 
 ![1 计算机基础](../images/1 计算机基础.png)
 
-![2 Python 语言基础](../images/2 Python 语言基础.png)
+![2 Python 语言基础](https://raw.githubusercontent.com/He-Xiang-best/Knowledge_Note/main/img/20210126145901.png)
 
 ![3 标准数据类型 (一) 数值   字典   集合](../images/3 标准数据类型 (一) 数值   字典   集合.png)
 
