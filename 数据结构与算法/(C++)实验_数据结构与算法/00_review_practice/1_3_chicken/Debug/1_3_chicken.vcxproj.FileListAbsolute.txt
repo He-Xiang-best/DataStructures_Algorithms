@@ -1,2 +1,0 @@
-C:\Development-Project\C++Project\DataStruct-Algorithms\ex01\1_3_chicken\Debug\1_3_chicken.exe
-C:\Development-Project\C++Project\DataStruct-Algorithms\ex01\1_3_chicken\Debug\1_3_chicken.pdb

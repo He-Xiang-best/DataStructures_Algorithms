@@ -1,2 +1,0 @@
-C:\Development-Project\C++Project\DataStruct-Algorithms\ex01\1_4_ Josephlink\Debug\1_4_ Josephlink.exe
-C:\Development-Project\C++Project\DataStruct-Algorithms\ex01\1_4_ Josephlink\Debug\1_4_ Josephlink.pdb

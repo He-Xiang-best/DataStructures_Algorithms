@@ -1,2 +1,0 @@
-C:\Development-Project\C++_Project\DataStruct-Algorithms\ex04\4_2_linkQueue\Debug\4_2_linkQueue.exe
-C:\Development-Project\C++_Project\DataStruct-Algorithms\ex04\4_2_linkQueue\Debug\4_2_linkQueue.pdb

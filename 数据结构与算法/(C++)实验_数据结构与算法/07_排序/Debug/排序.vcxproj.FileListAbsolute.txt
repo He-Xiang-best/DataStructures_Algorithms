@@ -1,2 +1,0 @@
-C:\Git\Project_C++\排序\Debug\排序.exe
-C:\Git\Project_C++\排序\Debug\排序.pdb

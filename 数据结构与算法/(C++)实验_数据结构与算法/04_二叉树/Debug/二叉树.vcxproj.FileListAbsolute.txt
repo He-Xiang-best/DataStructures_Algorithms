@@ -1,2 +1,0 @@
-C:\Git\Project_C++\二叉树\Debug\二叉树.exe
-C:\Git\Project_C++\二叉树\Debug\二叉树.pdb

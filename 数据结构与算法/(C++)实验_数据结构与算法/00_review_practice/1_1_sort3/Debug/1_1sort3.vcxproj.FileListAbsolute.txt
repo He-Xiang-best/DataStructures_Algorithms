@@ -1,4 +1,0 @@
-C:\Development-Project\C++Project\DataStruct-Algorithms\ex01\1_1sort3\Debug\1_1_sort3.exe
-C:\Development-Project\C++Project\DataStruct-Algorithms\ex01\1_1sort3\Debug\1_1_sort3.pdb
-C:\Development-Project\C++Project\DataStruct-Algorithms\ex01\1_1_sort3\Debug\1_1_sort3.exe
-C:\Development-Project\C++Project\DataStruct-Algorithms\ex01\1_1_sort3\Debug\1_1_sort3.pdb
