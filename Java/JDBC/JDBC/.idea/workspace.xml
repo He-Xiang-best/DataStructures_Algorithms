@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d692539a-c521-4cd4-99e1-7c711444c10f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Properties File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1o8wHPcqE2HYwmtLDlSWfdNAHPC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/lib" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.4197349" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\StudyProject\Project_Java\IntelliJ IDEA\JDBC\src\lib" />
+      <recent name="C:\StudyProject\Project_Java\JDBC-DAO\src\jdbc\test" />
+      <recent name="C:\StudyProject\Project_Java\JDBC-DAO\src\jdbc\dbutil" />
+      <recent name="C:\StudyProject\Project_Java\JDBC-DAO\src\jdbc\dao\impl" />
+      <recent name="C:\StudyProject\Project_Java\JDBC-DAO\src\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\StudyProject\Project_Java\IntelliJ IDEA\JDBC" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AllTest.countTest">
+    <configuration name="AllTest.countTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdbc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jdbc.test" />
+      <option name="MAIN_CLASS_NAME" value="jdbc.test.AllTest" />
+      <option name="METHOD_NAME" value="countTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AllTest.getAllTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdbc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jdbc.test" />
+      <option name="MAIN_CLASS_NAME" value="jdbc.test.AllTest" />
+      <option name="METHOD_NAME" value="getAllTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AllTest.getTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdbc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jdbc.test" />
+      <option name="MAIN_CLASS_NAME" value="jdbc.test.AllTest" />
+      <option name="METHOD_NAME" value="getTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AllTest.saveTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdbc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jdbc.test" />
+      <option name="MAIN_CLASS_NAME" value="jdbc.test.AllTest" />
+      <option name="METHOD_NAME" value="saveTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DBCPTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdbc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jdbc.test" />
+      <option name="MAIN_CLASS_NAME" value="jdbc.test.DBCPTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AllTest.countTest" />
+        <item itemvalue="JUnit.AllTest.getAllTest" />
+        <item itemvalue="JUnit.AllTest.getTest" />
+        <item itemvalue="JUnit.AllTest.saveTest" />
+        <item itemvalue="JUnit.DBCPTest.test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d692539a-c521-4cd4-99e1-7c711444c10f" name="Default Changelist" comment="" />
+      <created>1612681437594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612681437594</updated>
+      <workItem from="1612681441848" duration="21642000" />
+      <workItem from="1612713123410" duration="1188000" />
+      <workItem from="1612764985727" duration="63000" />
+      <workItem from="1612765089448" duration="2404000" />
+      <workItem from="1612777273976" duration="813000" />
+      <workItem from="1612785929284" duration="1319000" />
+      <workItem from="1612958877980" duration="195000" />
+      <workItem from="1612959116944" duration="82000" />
+      <workItem from="1612959243248" duration="267000" />
+      <workItem from="1612959574488" duration="136000" />
+      <workItem from="1612960166219" duration="122000" />
+      <workItem from="1612960471075" duration="525000" />
+      <workItem from="1612967406539" duration="1160000" />
+      <workItem from="1613116558706" duration="19968000" />
+      <workItem from="1613317063074" duration="1554000" />
+      <workItem from="1613351763798" duration="9825000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="165" y="112" key="#Custom_Plugin_Repositories" timestamp="1612960796746">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="165" y="112" key="#Custom_Plugin_Repositories/0.0.1536.864@0.0.1536.864" timestamp="1612960796746" />
+    <state x="325" y="84" key="#Project_Structure" timestamp="1613125723052">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="325" y="84" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1613125723052" />
+    <state x="363" y="115" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1613122055783">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="363" y="115" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1536.864@0.0.1536.864" timestamp="1613122055783" />
+    <state x="538" y="115" key="#com.intellij.ide.util.MemberChooser" timestamp="1613356986394">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="538" y="115" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1613356986394" />
+    <state x="426" y="159" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1613118635648">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="426" y="159" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1536.864@0.0.1536.864" timestamp="1613118635648" />
+    <state x="463" y="172" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613358043949">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="463" y="172" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1613358043949" />
+    <state x="513" y="180" key="FileChooserDialogImpl" timestamp="1613354050382">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="513" y="180" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1613354050382" />
+    <state width="1406" height="2" key="GridCell.Tab.0.bottom" timestamp="1613360494422">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1406" height="2" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1613360494422" />
+    <state width="1406" height="2" key="GridCell.Tab.0.center" timestamp="1613360494422">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1406" height="2" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1613360494422" />
+    <state width="1406" height="2" key="GridCell.Tab.0.left" timestamp="1613360494422">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1406" height="2" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1613360494422" />
+    <state width="1406" height="2" key="GridCell.Tab.0.right" timestamp="1613360494422">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1406" height="2" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1613360494422" />
+    <state x="422" y="64" key="SettingsEditor" timestamp="1613361812777">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="422" y="64" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1613361812777" />
+    <state x="142" y="38" key="new project wizard" timestamp="1612961000497">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="142" y="38" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1612961000497" />
+    <state x="436" y="55" key="refactoring.ChangeSignatureDialog" timestamp="1613131100475">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="436" y="55" key="refactoring.ChangeSignatureDialog/0.0.1536.864@0.0.1536.864" timestamp="1613131100475" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
